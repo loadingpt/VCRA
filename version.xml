@@ -4,12 +4,10 @@
   <desc>Version: (Patreon)</desc>
   <msg>Are you enjoying VCRA? Please consider rating our store on itch.io!</msg>
   <patreon>
-    <tier>
-      <god></god>
-      <royalty></royalty>
-      <vip>Holo#Dominik Nitzsche</vip>
-      <noble>Chicken Nuggets#Ming</noble>
-      <helper>RealBlueVR</helper>
-    </tier>
+    <god></god>
+    <royalty></royalty>
+    <vip>Holo#Dominik Nitzsche</vip>
+    <noble>Chicken Nuggets#Ming</noble>
+    <helper>RealBlueVR</helper>
   </patreon>
 </VCRA>
