@@ -3,5 +3,13 @@
   <check>1</check>
   <desc>Version: (Patreon)</desc>
   <msg>Are you enjoying VCRA? Please consider rating our store on itch.io!</msg>
-  <patreon></patreon>
+  <patreon>
+    <tier>
+      <god></god>
+      <royalty></royalty>
+      <vip>Holo#Dominik Nitzsche</vip>
+      <noble>Chicken Nuggets#Ming</noble>
+      <helper>RealBlueVR</helper>
+    </tier>
+  </patreon>
 </VCRA>
